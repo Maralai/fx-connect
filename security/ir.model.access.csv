@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_rfid_reader,rfid.reader,model_rfid_reader,rfid_group,1,1,1,1
+access_rfid_reads_tag,rfid.reads.tag,model_rfid_reads_tag,rfid_group,1,1,1,1
+access_rfid_reads_heartbeat,rfid.reads.heartbeat,model_rfid_reads_heartbeat,rfid_group,1,1,1,1

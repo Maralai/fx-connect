@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="0">
+        <record model="ir.module.category" id="rfid_category">
+            <field name="name">Radio Frequency Identification</field>
+            <field name="description">The RFID/Zebra Application</field>
+            <field name="sequence">20</field>
+        </record>
+        <record id="rfid_group" model="res.groups">
+            <field name="name">RFID App</field>
+            <field name="comment">Access to the RFID App and it's data.</field>
+            <field name="category_id" ref="rfid_category"/>
+        </record>
+    </data>
+</odoo>

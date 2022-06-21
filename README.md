@@ -1,8 +1,7 @@
 <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" width="200"/>
 
 ---
-
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Zebra_Technologies_logo.svg/330px-Zebra_Technologies_logo.svg.png" width="200"> 
+<img src="https://www.l-tron.com/wp-content/uploads/2017/01/Zebra_Logo_K.jpg" width="200"/>
 
 # *fx-connect*
 
